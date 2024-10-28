@@ -5,7 +5,7 @@
 import base64
 
 # 要编码的原始数据
-data ="cGljb0NURnt3ZWJfc3VjYzNzc2Z1bGx5X2QzYzBkZWRfMTBmOTM3NmZ9"
+data ="cGljb0NURntqQmhEMnk3WG9OelB2XzFZeFM5RXc1cUwwdUk2cGFzcWxfaW5qZWN0aW9uX2UzMWVmMzI0fQ=="
 # 将字符串编码为字节
 byte_data = data.encode('utf-8')
 
